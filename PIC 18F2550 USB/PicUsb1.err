@@ -1,0 +1,12 @@
+>>> Warning 216 "PicUsb1.c" Line 68(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "PicUsb1.c" Line 68(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\usb_desc_cdc.h" Line 154(16,37): Variable never used:   USB_CLASS_DESCRIPTORS
+>>> Warning 202 "PicUsb1.c" Line 15(9,10): Variable never used:   i
+>>> Warning 202 "PicUsb1.c" Line 15(12,13): Variable never used:   j
+>>> Warning 202 "PicUsb1.c" Line 15(15,22): Variable never used:   address
+>>> Warning 202 "PicUsb1.c" Line 15(24,29): Variable never used:   value
+>>> Warning 202 "PicUsb1.c" Line 16(8,13): Variable never used:   valor
+>>> Warning 202 "PicUsb1.c" Line 18(10,11): Variable never used:   q
+>>> Warning 202 "PicUsb1.c" Line 19(10,11): Variable never used:   p
+      Memory usage:   ROM=14%      RAM=57% - 59%
+      0 Errors,  10 Warnings.

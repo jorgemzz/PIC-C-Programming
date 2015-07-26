@@ -1,0 +1,4 @@
+C:\Documents and Settings\LOBO\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LOBO\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.FormPrincipal.resources
+C:\Documents and Settings\LOBO\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\LOBO\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\bin\Debug\PicRs232.exe
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\bin\Debug\PicRs232.pdb
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\bin\Debug\PicRs232.xml
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\WindowsApplication1.FormPrincipal.resources
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\PicRs232.vbproj.GenerateResource.Cache
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\PicRs232.exe
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\PicRs232.xml
+C:\Documents and Settings\LOBO\Escritorio\PicRs232\PicRs232\obj\Debug\PicRs232.pdb
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\obj\Debug\PicRs232.exe
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\obj\Debug\PicRs232.xml
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\obj\Debug\PicRs232.pdb
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\bin\Debug\PicRs232.exe
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\bin\Debug\PicRs232.pdb
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\bin\Debug\PicRs232.xml
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\obj\Debug\WindowsApplication1.FormPrincipal.resources
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jorge\Desktop\PIC USB-CDC n ControlPID\PicRs232\PicRs232\obj\Debug\PicRs232.vbproj.GenerateResource.Cache
+D:\Electronica y Microcontroladores\Microcontroladores PIC\Programming & Design\PIC 18F2550 USB\PicRs232\PicRs232\obj\Debug\PicRs232.exe
+D:\Electronica y Microcontroladores\Microcontroladores PIC\Programming & Design\PIC 18F2550 USB\PicRs232\PicRs232\obj\Debug\PicRs232.xml
+D:\Electronica y Microcontroladores\Microcontroladores PIC\Programming & Design\PIC 18F2550 USB\PicRs232\PicRs232\obj\Debug\PicRs232.pdb
