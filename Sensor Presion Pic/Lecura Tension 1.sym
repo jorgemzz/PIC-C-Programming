@@ -1,0 +1,141 @@
+000     @SCRATCH
+001     @SCRATCH
+001     _RETURN_
+002     @SCRATCH
+003     @SCRATCH
+004     @SCRATCH
+006-007 MAIN.q
+008-00B MAIN.p
+00C-00F MAIN.t
+010-013 MAIN.r
+014     lcd_init.i
+014-015 @MUL1616.P1
+014     MAIN.@SCRATCH1
+015-018 @PRINTF_L32D_74FPFPF.P1
+015     lcd_init.@SCRATCH1
+015     MAIN.@SCRATCH2
+016-017 @ITOF.P1
+016-017 @MUL1616.P2
+016     lcd_init.@SCRATCH2
+016     MAIN.@SCRATCH3
+017     MAIN.@SCRATCH4
+018-01B @DIVFF.P1
+018-01B @ADDFF.P2
+018     @MUL1616.@SCRATCH1
+019     @PRINTF_L32D_74FPFPF.P1
+01A     @PRINTF_L32D_74FPFPF.@SCRATCH1
+01B     @PRINTF_L32D_74FPFPF.@SCRATCH2
+01C-01F @DIVFF.P1
+01C-01F @ADDFF.P2
+01C     @PRINTF_L32D_74FPFPF.@SCRATCH3
+01D     @PRINTF_L32D_74FPFPF.@SCRATCH4
+01E     @PRINTF_L32D_74FPFPF.@SCRATCH5
+01F     @PRINTF_L32D_74FPFPF.@SCRATCH6
+020     @DIVFF.@SCRATCH1
+020     @ADDFF.@SCRATCH1
+020     @PRINTF_L32D_74FPFPF.@SCRATCH7
+021     @DIVFF.@SCRATCH2
+021     @ADDFF.@SCRATCH2
+021     @PRINTF_L32D_74FPFPF.@SCRATCH8
+022-025 @DIV3232.P1
+022     lcd_putc.c
+022-025 @FTOSD.P1
+022-025 @MULFF.P2
+022     @DIVFF.@SCRATCH3
+022     @ADDFF.@SCRATCH3
+023     @delay_ms1.P1
+023     lcd_gotoxy.x
+023     @DIVFF.@SCRATCH4
+023     @ADDFF.@SCRATCH4
+024     lcd_gotoxy.y
+024     @DIVFF.@SCRATCH5
+024     @ADDFF.@SCRATCH5
+025     lcd_gotoxy.address
+025     @DIVFF.@SCRATCH6
+025     @ADDFF.@SCRATCH6
+026-029 @DIV3232.P1
+026-029 @MULFF.P2
+026     lcd_gotoxy.@SCRATCH1
+026     @ADDFF.@SCRATCH7
+026     @FTOSD.@SCRATCH1
+027     lcd_send_byte.address
+027     @ADDFF.@SCRATCH8
+028     lcd_send_byte.n
+029     lcd_read_byte.low
+029     lcd_send_byte.@SCRATCH1
+02A     lcd_read_byte.high
+02A     lcd_send_nibble.n
+02A     @MULFF.@SCRATCH1
+02A     @DIV3232.@SCRATCH1
+02B     lcd_read_byte.@SCRATCH1
+02B     @MULFF.@SCRATCH2
+02B     @DIV3232.@SCRATCH2
+02C     @MULFF.@SCRATCH3
+02C     @DIV3232.@SCRATCH3
+02D     @DIV3232.@SCRATCH4
+02E     @DIV3232.@SCRATCH5
+F81     lcd
+FB4.6   C1OUT
+FB4.7   C2OUT
+FBB     CCP_2_LOW
+FBB-FBC CCP_2
+FBC     CCP_2_HIGH
+FBE     CCP_1_LOW
+FBE-FBF CCP_1
+FBF     CCP_1_HIGH
+FE9-FEA @READ_PROGRAM_MEMORY.P1
+FE9-FEA @WRITE_PROGRAM_MEMORY.P2
+FF6-FF8 @READ_PROGRAM_MEMORY.P1
+FF6-FF8 @WRITE_PROGRAM_MEMORY.P2
+
+ROM Allocation:
+0052  @delay_ms1
+0004  LCD_INIT_STRING
+0092  lcd_read_byte
+007A  lcd_send_nibble
+00CA  lcd_send_byte
+0100  lcd_init
+0668  lcd_gotoxy
+068C  lcd_putc
+0906  MAIN
+0158  @MUL1616
+0178  @ITOF
+01B0  @DIVFF
+030A  @MULFF
+03FC  @ADDFF
+0018  @const100
+06CE  @FTOSD
+070E  @DIV3232
+0788  @PRINTF_L32D_74FPFPF
+0034  @const109
+0906  @cinit
+
+Project Directory:
+    C:\Users\Jorge\Desktop\Sensor Presion Pic\
+
+Project Files:
+    Lecura Tension 1.c
+    ..\..\..\..\Program Files (x86)\PICC\devices\18f2550.h
+    ..\..\..\..\Program Files (x86)\PICC\drivers\lcd.c
+
+Units:
+    C:\Users\Jorge\Desktop\Sensor Presion Pic\Lecura Tension 1.c (main)
+
+Compiler Settings:
+    Processor:      PIC18F2550
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      Lecura Tension 1.err
+    Ext Symbols: Lecura Tension 1.esym
+    INHX32:      Lecura Tension 1.hex
+    Symbols:     Lecura Tension 1.sym
+    List:        Lecura Tension 1.lst
+    Debug/COFF:  Lecura Tension 1.cof
+    Project:     Lecura Tension 1.PJT
+    Call Tree:   Lecura Tension 1.tre
+    Statistics:  Lecura Tension 1.sta
